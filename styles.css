@@ -55,7 +55,7 @@ body {
 .navbar_wrapper {
   display: flex;
   flex: row;
-  max-width: 1080px;
+  max-width: 780px;
   height: inherit;
   margin: 0 auto;
   justify-content: space-between;
